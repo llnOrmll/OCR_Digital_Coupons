@@ -2,6 +2,8 @@
 
 This project is a Flask web application that extracts information from digital coupons using the Google Vision API. It allows users to upload an image of a coupon, and the application will extract relevant information such as the barcode, due date, items, price, and brand.
 
+[file](./samples_images/flask_application.png)
+
 ## Features
 
 - Utilizes Google Vision API for text detection and extraction
