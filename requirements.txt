@@ -1,0 +1,8 @@
+numpy
+flask
+scikit-learn
+google-cloud-storage
+google-cloud-vision
+google-cloud-bigquery
+pandas
+db-dtypes
