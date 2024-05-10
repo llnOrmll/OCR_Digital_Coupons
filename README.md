@@ -4,7 +4,7 @@ This project is a Flask web application that extracts information from digital c
 
 [<img width="411" alt="flask_application" src="https://github.com/llnOrmll/OCR_Digital_Coupons/assets/32804828/9993ce74-4898-4fdf-b6ea-edbfaae5b68e">](https://github.com/llnOrmll/OCR_Digital_Coupons/blob/main/sample_images/flask_application.png)
 
-![result_sample](https://github.com/llnOrmll/OCR_Digital_Coupons/assets/32804828/6d3a63d0-0623-4570-8a28-3c07f9a97029)
+[<img alt="result_sample" src="https://github.com/llnOrmll/OCR_Digital_Coupons/assets/32804828/6d3a63d0-0623-4570-8a28-3c07f9a97029">](https://github.com/llnOrmll/OCR_Digital_Coupons/blob/main/sample_images/result_sample.png))
 
 
 ## Features
