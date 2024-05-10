@@ -73,7 +73,3 @@ Before running the application, ensure that you have the following:
 - scikit-learn (TfidfVectorizer, linear_kernel)
 - Regular Expressions
 - HTML/CSS
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
